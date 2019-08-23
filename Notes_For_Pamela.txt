@@ -1,0 +1,5 @@
+For this applet I also plan to,
+
+	-Have the mouse drag feature for the gravity anomaly (red circle).
+	-Make it so the scroll wheel on the mouse can change the radius of the anomaly.
+	-Object accelerates up or down as down key or up key is pressed.
